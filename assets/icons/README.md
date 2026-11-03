@@ -6,7 +6,7 @@
 
 - 형식: SVG
 - 디자인 도구: Figma
-- 아이콘 개수: 52개
+- 아이콘 개수: 53개
 - 용도: 프론트엔드 UI 구현에 필요한 아이콘 리소스 제공
 
 ## 2. 아이콘 목록
@@ -24,6 +24,7 @@
 | calendar_gray.svg | 비활성 또는 회색 달력 |
 | calendar.svg | 달력 |
 | car.svg | 자동차 이동 수단 |
+| chat.svg | 채팅 |
 | check.svg | 확인 및 선택 |
 | chevron_down.svg | 아래 방향 화살표 |
 | chevron_left.svg | 왼쪽 방향 화살표 |
@@ -43,7 +44,7 @@
 | home.svg | 홈 화면 이동 |
 | kakaotalk.svg | 카카오톡 관련 기능 |
 | leave_meeting.svg | 약속방 나가기 |
-| Link.svg | 링크 공유 및 연결 |
+| link.svg | 링크 공유 및 연결 |
 | location_permission.svg | 현재 위치 권한 |
 | location_sharing_settings.svg | 위치 공유 설정 |
 | location_sharing.svg | 위치 공유 |
