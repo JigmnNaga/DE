@@ -6,7 +6,7 @@
 
 - 형식: SVG
 - 디자인 도구: Figma
-- 아이콘 개수: 53개
+- 아이콘 개수: 54개
 - 용도: 프론트엔드 UI 구현에 필요한 아이콘 리소스 제공
 
 ## 2. 아이콘 목록
@@ -59,6 +59,7 @@
 | place.svg | 장소 및 위치 |
 | plus.svg | 추가 |
 | privacy.svg | 개인정보 보호 |
+| profile.svg | 프로필 아이콘 |
 | profile_edit.svg | 프로필 사진 변경 |
 | search.svg | 검색 |
 | send_active.svg | 메시지 전송 활성화 |
